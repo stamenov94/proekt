@@ -1,0 +1,27 @@
+html {
+    background: teal;
+}
+
+.container {
+    width: 100px;
+    background-color: white;
+    border-radius: 5%;
+}
+
+.top {
+    padding: 2px 2px 2px;
+}
+
+.middle {
+    position: relative;
+    left: 38%;
+}
+
+.bottom {
+    text-align: right;
+    padding: 2px 2px 2px 5px;
+}
+
+.red {
+    color: blue;
+}
